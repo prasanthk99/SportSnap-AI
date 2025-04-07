@@ -1,0 +1,47 @@
+[
+  {
+    "celebrity": "Virat Kholi",
+    "title": "Reels of Virat",
+    "script": "Virat Kohli, one of cricket's modern legends, has solidified his legacy as a fierce competitor and record-breaking batsman for the Indian national team.",
+    "videoUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/videos/Virat+Kholi-1744058924976.mp4",
+    "audioUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/audio/Virat+Kholi-1744058924976.mp3",
+    "imageUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/images/Virat+Kholi-1744058995551.png",
+    "createdAt": "2025-04-08T03:02:27.234Z"
+  },
+  {
+    "celebrity": "Dhoni",
+    "title": "Reels of Dhoni",
+    "script": "Dhoni, a cricket legend known for his cool demeanor under pressure, led India to victory in the 2011 World Cup with a match-winning six.",
+    "videoUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/videos/Dhoni-1744059907156.mp4",
+    "audioUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/audio/Dhoni-1744059307137.mp3",
+    "imageUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/images/Dhoni-1744059366145.png",
+    "createdAt": "2025-04-08T03:20:27.234Z"
+  },
+  {
+    "celebrity": "Rhohit",
+    "title": "Reels of Rhohit",
+    "script": "Rohit Sharma is a cricket legend known for his record-breaking performances and leadership on the field.",
+    "videoUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/videos/Rhohit-1744059747103.mp4",
+    "audioUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/audio/Rhohit-1744059672507.mp3",
+    "imageUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/images/Rhohit-1744059746284.png",
+    "createdAt": "2025-04-07T21:02:27.234Z"
+  },
+  {
+    "celebrity": "Ronaldo",
+    "title": "Reels of Ronaldo",
+    "script": "Rohit Sharma is a cricket legend known for his record-breaking performances and leadership on the field.",
+    "videoUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/videos/Ronaldo-1744056265863.mp4",
+    "audioUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/audio/Ronaldo-1744056285628.mp3",
+    "imageUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/images/Ronaldo-1744056048548.png",
+    "createdAt": "2025-04-08T03:10:27.234Z"
+  },
+  {
+    "celebrity": "Virat Kholi",
+    "title": "Reels of Virat",
+    "script": "Virat Kohli, one of cricket's modern legends, has solidified his legacy as a fierce competitor and record-breaking batsman for the Indian national team.",
+    "videoUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/videos/Virat+Kholi-1744058924976.mp4",
+    "audioUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/audio/Virat+Kholi-1744058924976.mp3",
+    "imageUrl": "https://sportsnap-reels-2.s3.ap-south-1.amazonaws.com/images/Virat+Kholi-1744058995551.png",
+    "createdAt": "2025-04-08T03:02:27.234Z"
+  }
+]
