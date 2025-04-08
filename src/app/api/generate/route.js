@@ -37,7 +37,10 @@ export async function POST(req) {
     // Generate video from image and script from runway
     const audioBuffer = await axios.get(audioUrl, { responseType: "arraybuffer" }).then(res => Buffer.from(res.data));
 
-    const videoBuffer = await generateVideoFromImage(imageBuffer, mimeType, script,audioBuffer);
+    const videoDataURL = await generateVideoFromImage(imageBuffer, mimeType, script,audioBuffer);
+
+    // Download video from the generated URL
+    const videoBuffer = await axios.get(videoDataURL, { responseType: "arraybuffer" }).then(res => Buffer.from(res.data));
 
     // Upload video to S3
     const videoKey = `${celebrity}-${Date.now()}.mp4`;
@@ -47,6 +50,7 @@ export async function POST(req) {
       "video/mp4",
       "videos"
     );
+
 
     // Update meta with real S3 URL
     const title = `Reels of ${celebrity}`;
